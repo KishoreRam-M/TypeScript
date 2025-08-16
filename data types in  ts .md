@@ -1,9 +1,3 @@
-Nice — I’ll be your TypeScript mentor for **everything about types, the type system, and enums**. I’ll walk you step-by-step from fundamentals → advanced type system features → real-world usage. Each concept includes a short, practical analogy, side-by-side JS vs TS examples, hands-on exercises, common mistakes & debugging tips, a short quiz, and at the end a mini-project that ties everything together.
-
-I avoided silly examples — everything below uses realistic scenarios (users, products, orders, APIs). Answer the quizzes as you go and I’ll guide you onward.
-
----
-
 # 1. How TypeScript → JavaScript works (short foundation)
 
 **Analogy:** TypeScript is a static safety checker and spec writer. It annotates your code and validates it at *compile-time*. When you build, the type annotations are removed; the runtime sees normal JavaScript.
