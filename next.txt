@@ -7,3 +7,69 @@ Advanced Types: Union, intersection, mapped types, conditional types
 Async patterns in TS: Promise<T> typing, async/await patterns
 
 Namespaces (optional): Though modules are preferred in modern projects
+Here’s a **list of TypeScript concepts you still need to study or practice** based on your progress:
+
+---
+
+## **1. Advanced Types**
+
+* **Generics** – reusable type-safe functions, classes, and interfaces
+* **Intersection Types** – combining multiple types into one
+* **Union Types** – a variable can be one of multiple types
+* **Mapped Types** – transform existing types into new types
+* **Conditional Types** – types based on conditions
+
+---
+
+## **2. Advanced Functions & Patterns**
+
+* **Closures in TypeScript** – using closures with strong typing
+* **Function Overloads** – multiple signatures for a single function
+
+---
+
+## **3. Decorators**
+
+* **Class, Method, Property, and Parameter Decorators**
+* Use cases: logging, validation, metadata in frameworks like NestJS
+
+---
+
+## **4. Modules & Project Structuring (Advanced)**
+
+* **Namespaces vs Modules** – mostly modules in modern TS
+* **Organizing large-scale apps**: models, services, utils
+* **Avoiding circular dependencies**
+
+---
+
+## **5. Asynchronous Patterns**
+
+* **Promises and async/await with typed results**
+* **Typing API responses**
+* **Error handling in async TS functions**
+
+---
+
+## **6. Practical Project-Level Applications**
+
+* Combine **Interfaces, Classes, Generics, Modules, and Decorators** in real-world projects:
+
+  * CRUD apps
+  * Mini dashboards
+  * API services
+* **Validation & Business Rules** using getters/setters and decorators
+* **Reusable type-safe utilities**
+
+---
+
+### ✅ **Next Step**
+
+* Focus on **Generics, Intersection/Union Types, Decorators, Async Patterns**, and **real-world project exercises**.
+* After this, you will have **complete practical TypeScript mastery** for production-level development.
+
+---
+
+If you want, I can **create a full “TypeScript Study Roadmap”** showing **all concepts, their order, and practice exercises** so you can systematically cover everything.
+
+Do you want me to do that?
