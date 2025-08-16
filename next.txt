@@ -1,0 +1,9 @@
+Generics: For reusable, type-safe classes/functions
+
+Decorators: Metadata and behavior annotation for classes/methods (common in frameworks like NestJS)
+
+Advanced Types: Union, intersection, mapped types, conditional types
+
+Async patterns in TS: Promise<T> typing, async/await patterns
+
+Namespaces (optional): Though modules are preferred in modern projects
